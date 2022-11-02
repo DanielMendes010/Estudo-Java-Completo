@@ -1,3 +1,9 @@
+/*
+ Java Dates:
+Java does not have a built-in Date class, but we can import the java.time package to work with the date and time API. 
+The package includes many date and time classes.
+ */
+
 package com.javaClasses;
 
 import java.time.LocalDate; // import the LocalDate class

@@ -1,3 +1,9 @@
+/*
+ Formatting Date and Time:
+The "T" in the example above is used to separate the date from the time. You can use the DateTimeFormatter class with the 
+ofPattern() method in the same package to format or parse date-time objects.
+ */
+
 package com.javaClasses;
 
 import java.time.LocalDateTime;
